@@ -2,7 +2,6 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/vedantbhatiaa/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 ![image](https://github.com/user-attachments/assets/51fad151-b3e2-4853-b1cf-9a28697627c9)
 
 
